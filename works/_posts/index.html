@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Works
 ---
 
 <div class="posts">
@@ -14,7 +14,7 @@ title: Blog
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {% if post.truncated_preview == true or site.blog.truncated_preview and post.truncated_preview != false %}
+    {% if post.truncated_preview == true or site.works.truncated_preview and post.truncated_preview != false %}
       {{ post.excerpt }}
       <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
     {% else %}
