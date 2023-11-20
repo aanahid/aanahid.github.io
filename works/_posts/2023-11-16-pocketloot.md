@@ -10,7 +10,7 @@ Project for [Pearl Hacks 2023](https://pearlhacks2023.devpost.com/)
 
 Awarded: Best Domain Name from Domain.com
 
-![PocketLoot HomePage](../works/pocketloot.png)
+![PocketLoot HomePage](pocketloot.png)
 
 ## Overview
 Nowadays, plenty of games on the market find themselves utilizing the "free to play" model. However, most games aren't very wallet-friendly after all with the secretly embedded microtransactions and add-ons to purchase. PocketLoot is a user-friendly web app for gamers to budget their spending on such games, and become more mindful of their finances.
