@@ -8,7 +8,7 @@ order: 3
 
 Collect acorns, time travel, and save the squirrel! 
 
-![In Your Darkest Hour Menu](darkest.png)
+![In Your Darkest Hour Menu](C:/Users/alond/OneDrive/Documents/GitHub/aanahid.github.io/works/darkest.png)
 
 ## Overview
 "In Your Darkest Hour" is a 2D platformer game created using [Godot 4](https://godotengine.org/) that embarks players on a daring adventure to rescue a squirrel in danger. Navigate a perilous world filled with obstacles while collecting acorns to save your furry friend. Be sure to use your "Double Take" time travel ability, allowing you to rewind your position by five seconds. Use this unique power strategically to be the squirrel's hero. 
