@@ -2,8 +2,9 @@
 layout: page
 title: About
 ---
-
-![Me](/images/circle.png)
+<div class="text-center">
+  <img src="/images/circle.png" alt="Me">
+</div>
 
 Hello, my name is **Alondra**! I'm currently a college junior double majoring in computer science and philosophy. I find that this combination of studies captures my interest in technology and its ethical implications.
 

@@ -18,7 +18,7 @@ Nowadays, plenty of games on the market find themselves utilizing the "free to p
 ## Development
 This gamer's budgeting tool was developed utilizing [Velo by Wix](https://www.wix.com/velo), a full-stack web development platform, and  JavaScript to create the framework of the website. [Canva](https://www.canva.com/) was used to create graphics such as the logo. The domain was from domain.com.
 
-Pocketloot keeps track of the amount of money that is spent per game, and how much time is spent per game. It also allows users to view a summary chart of all their finances. Users are able to create a budget to help them stay within spending limits. 
+PocketLoot keeps track of the amount of money that is spent per game, and how much time is spent per game. It also allows users to view a summary chart of all their finances. Users are able to create a budget to help them stay within spending limits. 
 
 <!--more-->
 
