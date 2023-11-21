@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<div class="text-center">
+<div style="text-align: center;">
   <img src="/images/circle.png" alt="Me">
 </div>
 
