@@ -6,21 +6,22 @@ excerpt_separator: <!--more-->
 order: 2
 ---
 
-A new way to explore books aligned with your interest. Discover your next read by using my book recommending tool. 
+A new way to explore books aligned with your interest. Discover your next read by using my book recommending web app. 
 
 ## Overview
-I developed a book recommending tool that leverages Python and effectively utilizes [OpenLibrary's Search API](https://openlibrary.org/dev/docs/api/search) to access and search a large database of books. This API allows for personalized recommendations using user input. The process involves making an API request based on a genre and keywords provided by the user, storing results in a Pandas DataFrame, and randomly choosing one of the results. This tool features a user-friendly GUI application made using [Tkinter](https://docs.python.org/3/library/tkinter.html) where the user can provide input and see their recommended book's information displayed. 
+I developed a dynamic book recommending web app that integrates React for the frontend and [Flask](https://flask.palletsprojects.com/en/3.0.x/) (Python) for the backend. This tool effectively utilizes [OpenLibrary's Search API](https://openlibrary.org/dev/docs/api/search) to access and search a large database of books for the users recommendation. The process involves making an API request based on a genre and keywords provided by the user, storing results in a [pandas DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html), and randomly choosing one of the results. 
 
 <!--more-->
 
 ## Development
-This project began as a class assignment in the very first programming class I took at my university. However, the original version was much more limited since there were only six possible books that could be recommended, it was a terminal-based application, and functioned like a BuzzFeed quiz. 
 
-My goal with this project was to expand on this by allowing the user to provide input on what they want to read, have more book options, and create a GUI for this application. 
+This project has undergone several iterations to improve user experience. This project began as a class assignment in the very first programming class I took at my university. However, the original version was much more limited since there were only six possible books that could be recommended, it was a command-line interface (CLI) application, and functioned like a BuzzFeed quiz. To make this project more user-friendly, the project evolved into a graphical user interface (GUI) application using [Tkinter](https://docs.python.org/3/library/tkinter.html). 
 
-I chose to use Python since that is what I used in the original project. Furthermore, I decided to use OpenLibrary's Search API after learning about it from a [public list of free APIs](https://github.com/public-apis/public-apis). The ability to access a large database of books and search within this database made the API suitable for my project. Developing the GUI was fairly straightforward because I have worked with GUI applications and the MVC design pattern in coursework. One of the main challenges was adjusting to Tkinter. My previous experience with GUI applications was with Java and JavaFX, but I was able to apply my background knowledge and reference Tkinter's documentation.  
+Most recently, the latest version of the project has been developed into a web application using React and Flask. The web app version offers a dynamic and responsive interface, making it even more convenient for users to explore book recommendations based on their preferences.
+
+I chose to use Python for the backend since that is what I used in the original project. I also wanted to gain experience using [Flask](https://flask.palletsprojects.com/en/3.0.x/), a web framework for Python. Furthermore, I decided to use OpenLibrary's Search API after learning about it from a [public list of free APIs](https://github.com/public-apis/public-apis). The ability to access a large database of books and search within this database made the API suitable for my project. 
 
 ## Further Thoughts
-I learned how to use APIs and gained a better understanding of their uses. I feel that after working on this, I could confidently work on projects that make use of APIs. I found it extremely rewarding to demonstrate what I have learned in coursework since my first programming class and learn new technologies, such as APIs. 
+I learned how to use APIs, developed a better understanding of their uses, and gained experience in developing both the frontend and backend of a web application. I feel that after working on this, I could confidently work on projects that make use of APIs. I hope to further advance my web development skills after this project. I found it extremely rewarding to not only demonstrate what I have learned in coursework since my first programming class, but also learn to use new technologies, such as APIs. 
 
-Some future plans for this project include making it into a web or mobile application. Another idea involves enhancing the recommendation system of this tool. 
+Some future plans for this project involve enhancing the recommendation system of this tool. 

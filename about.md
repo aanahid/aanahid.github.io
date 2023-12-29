@@ -12,8 +12,4 @@ My main goal is to not only continuously learn about new technologies while expl
 
 Within technology, some other interests I enjoy working with / would like to learn more about include web / mobile development, AI, and game development. 
 
-<p class="message">
-  Note: I am continuously updating this site, so don't be surprised if you notice new things next time you visit!
-</p>
-
 Thanks for reading!

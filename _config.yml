@@ -8,7 +8,7 @@ highlighter:         rouge
 exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
 
 permalink:           pretty
-paginate:            5
+paginate:            6
 paginate_path:       /works/:num
 
 blog:
