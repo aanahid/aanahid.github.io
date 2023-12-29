@@ -9,7 +9,9 @@ order: 2
 A new way to explore books aligned with your interest. Discover your next read by using my book recommending web app. 
 
 ## Overview
-I developed a dynamic book recommending web app that integrates React for the frontend and [Flask](https://flask.palletsprojects.com/en/3.0.x/) (Python) for the backend. This tool effectively utilizes [OpenLibrary's Search API](https://openlibrary.org/dev/docs/api/search) to access and search a large database of books for the users recommendation. The process involves making an API request based on a genre and keywords provided by the user, storing results in a [pandas DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html), and randomly choosing one of the results. 
+I developed a dynamic book recommending web app that integrates [React](https://react.dev/) for the frontend and [Flask](https://flask.palletsprojects.com/en/3.0.x/) (Python) for the backend. This tool effectively utilizes [OpenLibrary's Search API](https://openlibrary.org/dev/docs/api/search) to access and search a large database of books for the users recommendation. The process involves making an API request based on a genre and keywords provided by the user, storing results in a [pandas DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html), and randomly choosing one of the results. 
+
+You can view this project on [Github](https://github.com/aanahid/book-recommender).
 
 <!--more-->
 
